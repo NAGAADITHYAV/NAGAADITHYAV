@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @NAGAADITHYAV
-- 👀 I’m interested in gaming AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nagaadithyavuppalapati@gmail.com
 
 <!---
